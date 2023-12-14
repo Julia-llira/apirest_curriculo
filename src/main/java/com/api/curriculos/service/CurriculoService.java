@@ -2,10 +2,8 @@ package com.api.curriculos.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-
 import com.api.curriculos.model.Curriculo;
 import com.api.curriculos.repository.CurriculoRepository;
-
 import java.util.List;
 import java.util.Optional;
 
